@@ -21,3 +21,8 @@
 
 
 ### 3. Support Vector Machines
+
+- Construct a support vector machine that computes the kernel function.
+-  Learning SVMs on the Titanic dataset. 
+-  Five-fold cross validation classification accuracies on Titanic training set, with respect to the `linear`, `quadratic`, and `RBF` kernels.
+-  Tuning the hyperparameters and applying `GridSearchCV` for each SVM kernels
