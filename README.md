@@ -4,4 +4,4 @@
 
    Titanic dataset: https://www.kaggle.com/c/titanic/data
    
-**2. Support Vector Machines
+**2. Support Vector Machines**
