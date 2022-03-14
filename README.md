@@ -26,3 +26,15 @@
 -  Learning SVMs on the Titanic dataset. 
 -  Five-fold cross validation classification accuracies on Titanic training set, with respect to the `linear`, `quadratic`, and `RBF` kernels.
 -  Tuning the hyperparameters and applying `GridSearchCV` for each SVM kernels
+
+### 4. Unsupervised Learning
+
+**Football team clustering**
+
+- Use Euclidean distance as the distance metric. First, perform one iteration of the K-means algorithm and report the coordinates of the resulting centroids. Second, use K-Means to find two clusters.
+- Use Manhattan distance as the distance metric. First, perform one iteration of the K-means algorithm and report the coordinates of the resulting centroids. Second, use K-Means to find two clusters.
+
+**K-Means Clustering with Real World Dataset**
+
+- Apply different distance matrices.
+- Compare the results.
