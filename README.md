@@ -4,4 +4,9 @@
 
    Titanic dataset: https://www.kaggle.com/c/titanic/data
    
-**2. Support Vector Machines**
+**2. Analyze the Titanic data and find whether the individuals from the test dataset had survived or not 
+
+   - Decision Tree  
+   - Random Forest
+
+**3. Support Vector Machines**
