@@ -36,5 +36,6 @@
 
 **K-Means Clustering with Real World Dataset**
 
+- Implement the K-means algorithm. K-means algorithm computes the distance of a given data point pair. Replace the distance computation function with Euclidean distance, 1- Cosine similarity, and 1 – the Generalized Jarcard similarity
 - Apply different distance matrices.
 - Compare the results.
